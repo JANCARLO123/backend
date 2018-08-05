@@ -10,14 +10,14 @@ Clonar repositorio
 --------
 
 ```sh
-git clone https://gitlab.com/jan_carlo/backend.git
+git clone https://github.com/JANCARLO123/backend.git
 ```
 
 Ejecutar
 --------
 
 ```sh
-cd spring-boot-sample
+cd backend
 ```
 Linux
 ```sh
@@ -30,7 +30,7 @@ gradlew.bat bootRun
 Acceder
 --------
 
-### Select
+### Prueba
 
 ```
 http://127.0.0.1:8080/libros
