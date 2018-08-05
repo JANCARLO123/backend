@@ -1,9 +1,10 @@
 Instrucciones
 ========================================
+```sh
 Instalar Java 8
 Instalar Git
 Puerto 8080
-
+```
 
 
 Clonar repositorio
@@ -24,8 +25,9 @@ Linux
 ./gradlew bootRun
 ```
 Windows 
+```sh
 gradlew.bat bootRun
-
+```
 
 Acceder
 --------
